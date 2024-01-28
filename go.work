@@ -1,0 +1,5 @@
+go 1.21.6
+
+use ./fizz_buzz
+use ./hello_world
+use ./guessing_game
